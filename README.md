@@ -17,3 +17,7 @@
 4. List the available clusters with ``k8s-vault list``.
 5. Enable the needed cluster with ``k8s-vault use cluster1``. Enter the password for decryption. 
 6. After you finish with that cluster exit the subshell ``exit``.
+
+## Small Demo with k9s
+1. k9s (https://github.com/derailed/k9s) is my choice of K8s management tool.
+2. See the demo with k8s-vault and k9s on KodeKloud (kodekloud.com) multi-cluster playground.
