@@ -21,3 +21,4 @@
 ## Small Demo with k9s
 1. k9s (https://github.com/derailed/k9s) is my choice of K8s management tool.
 2. See the demo with k8s-vault and k9s on KodeKloud (kodekloud.com) multi-cluster playground https://www.youtube.com/watch?v=l-CXIX2PfhI.
+3. A medium story is also available at https://emrah-t.medium.com/how-to-secure-local-kubeconfig-files-with-k8s-vault-76ca1e79fb29 for more info.
