@@ -12,7 +12,7 @@
 
 ## How to Install and Use 
 1. Simply clone the repo with ``git clone https://github.com/EmrhT/k8s-vault.git`` and cd into it with ``cd k8s-vault``.
-2. Make the shell script executable with ``chmod +x 600 k8s-vault``.
+2. Make the shell script executable with ``chmod +x k8s-vault``.
 3. (Optional) copy it to somewhere within your PATH ``cp k8s-vault /usr/local/bin``
 4. List the available clusters with ``k8s-vault list``.
 5. Enable the needed cluster with ``k8s-vault use cluster1``. Enter the password for decryption. 
