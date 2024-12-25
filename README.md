@@ -20,4 +20,4 @@
 
 ## Small Demo with k9s
 1. k9s (https://github.com/derailed/k9s) is my choice of K8s management tool.
-2. See the demo with k8s-vault and k9s on KodeKloud (kodekloud.com) multi-cluster playground.
+2. See the demo with k8s-vault and k9s on KodeKloud (kodekloud.com) multi-cluster playground https://www.youtube.com/watch?v=l-CXIX2PfhI.
